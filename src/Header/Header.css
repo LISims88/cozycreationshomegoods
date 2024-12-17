@@ -10,6 +10,7 @@ header>h1{
     font-family: "Twinkle Star", cursive;
     font-weight: bold;
     font-style: normal;
+    font-size: 2.5rem;
 }
 nav{
     display: flex;
