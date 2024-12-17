@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color:antiquewhite;
+}
+header>h1{
+    color: darkolivegreen;
+    font-family: "Twinkle Star", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 2.5rem;
+}
+nav{
+    display: flex;
+}
+nav>a{
+    padding: 1rem 2rem;
+    font-size: large;
+    color: darkolivegreen;
+}
